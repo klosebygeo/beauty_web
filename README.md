@@ -1,3 +1,10 @@
 # beauty_web
-Fisher editat local.
+
+BEAUTY WEB
+
+FUNCTIONALITATE:
+- Autentificare user
+- Servicii oferite
+- contact
+- pagina de profil
 
