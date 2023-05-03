@@ -4,7 +4,9 @@ BEAUTY WEB
 
 FUNCTIONALITATE:
 - Autentificare user
-- Servicii oferite
+- Admin
+- Servicii beauty
 - contact
-- pagina de profil
+- pagina de profil/ prezentare
+- 
 
