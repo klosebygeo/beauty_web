@@ -8,5 +8,6 @@ FUNCTIONALITATE:
 - Servicii beauty
 - contact
 - pagina de profil/ prezentare
-- 
+
+Informatiile vor fi furnizate ulterior
 
